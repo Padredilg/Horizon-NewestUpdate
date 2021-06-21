@@ -78,7 +78,7 @@ header nav ul li {
     margin-left: 25px;
 }
 
-.content div{
+.content section{
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -112,7 +112,7 @@ header nav ul li {
     color: #ffffff;
 }
 
-.benefits div {
+.benefits section {
     margin-bottom: 32px;
     color: #ffffff;
 }
