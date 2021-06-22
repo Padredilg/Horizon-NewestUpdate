@@ -15,20 +15,20 @@ The website still looks the same after improvements on the code
 
 The code was functional however it was poorly written. Not only did it communicate its sections very poorly, but it was difficult for another code to identify it parts.
 
-##### *HTML Before*
+#### *HTML Before*
 - It was hard to identify the parts due to multiple sections being equally called divs:
 ![HTML Code before](assets/images/before1.png)
 
-##### *HTML Now* 
+#### *HTML Now* 
 - The sections now have meaningful semantic names:
 ![HTML Code now](assets/images/after1.png)
 
 ### The Style Sheet has been improved as well:
-##### *CSS Before*
+#### *CSS Before*
 - Too many instances of the same styles being applied to similar parts made the stylesheet unnecessarily lenghty:
 ![CSS Code before](assets/images/before2.png)
 
-##### *CSS Now*
+#### *CSS Now*
 - Similar styles were combined in order to make the code more concise and cleaner:
 ![CSS Code now](assets/images/after2.png)
 
