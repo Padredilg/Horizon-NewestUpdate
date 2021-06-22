@@ -16,7 +16,7 @@ p {
 body {
     background-color: #d9dcd6;
 }
-
+ /*Changed the classes to their elements*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
