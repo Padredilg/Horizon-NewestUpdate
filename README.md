@@ -2,12 +2,13 @@
 
 # Horiseon - Refactoring :pencil:
 
-## Description
+## :label: Description
 
 Refactored the HTML and CSS files of the Horiseon website so to make the code cleaner, more accessible, and more SEO friendly.
 
-## Website
-
+## :desktop_computer: Website
+Link to Website: https://padredilg.github.io/Horizon-NewestUpdate/
+</br></br>
 The website still looks the same after improvements on the code
 ![image 1 of the website](assets/images/horiseon-1.png)
 ![image 2 of the website](assets/images/horiseon-2.png)
