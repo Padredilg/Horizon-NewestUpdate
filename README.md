@@ -1,8 +1,10 @@
-# Horiseon - Refactoring
+# Luiz Guilherme Padredi
+
+# Horiseon - Refactoring :pencil:
 
 ## Description
 
-The purpose of this activity was to refactor the html and the css of the given code so to make it cleaner, more accessible, and more SEO friendly.
+Refactored the HTML and CSS files of the Horiseon website so to make the code cleaner, more accessible, and more SEO friendly.
 
 ## Website
 
@@ -32,8 +34,7 @@ The code was functional however it was poorly written. Not only did it communica
 - Similar styles were combined in order to make the code more concise and cleaner:
 ![CSS Code now](assets/images/after2.png)
 
-## Credits
-
-This code was worked upon by Xander Rapstine and Luiz Padredi.\n
-It was originally written by Xander Rapstine, and Luiz Padredi improved the code's semantic.
+## :clap: Credits
+:hammer_and_wrench: Created by Xander Rapstine and Luiz Padredi.</br>
+Code was written by Xander Rapstine and code's semantic was improved byLuiz Padredi.
 
