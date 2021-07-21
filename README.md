@@ -7,7 +7,7 @@
 Refactored the HTML and CSS files of the Horiseon website so to make the code cleaner, more accessible, and more SEO friendly.
 
 ## :desktop_computer: Website
-Link to Website: https://padredilg.github.io/Horizon-NewestUpdate/
+Link to Website: https://padredilg.github.io/horiseon-refactored/
 </br></br>
 The website still looks the same after improvements on the code
 ![image 1 of the website](assets/images/horiseon-1.png)
@@ -37,5 +37,5 @@ The code was functional however it was poorly written. Not only did it communica
 
 ## :clap: Credits
 :hammer_and_wrench: Created by Xander Rapstine and Luiz Padredi.</br>
-Code was written by Xander Rapstine and code's semantic was improved byLuiz Padredi.
+Code was written by Xander Rapstine and code's semantic was improved by Luiz Padredi.
 
